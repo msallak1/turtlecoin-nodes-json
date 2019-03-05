@@ -167,6 +167,12 @@
       "url": "val.turtlenode.online",
       "port": 11898,
       "ssl": false
+    {
+      "name": "UK Fast node 2.0 TRTL fee",
+      "url": "83.143.116.97",
+      "port": 11898,
+      "ssl": false
+    }
     }
   ]
 }
